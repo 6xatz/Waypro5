@@ -42,4 +42,3 @@ FiiArticle adalah website artikel sederhana berbasis **CodeIgniter 4.6.1** denga
 | Axios            | HTTP client untuk komunikasi API      |
 | Vue.js           | UI reaktif untuk manajemen artikel    |
 | AJAX / JS        | Auto reload & interaktivitas dinamis  |
-|------------------|----------------------------------------|
